@@ -6,7 +6,9 @@
  *
  * @author     Goran Krgovic <goran@verteez.com>
  * @license    MIT License
- * @copyright  2015 Goran Krgovic
+ * @copyright  Copyright (c) 2015, Verteez (http://verteez.com/)
+ * @link http://verteez.com
+ * @since	Version 1.0.0
  */
 use Symfony\Component\Yaml\Yaml;
 use Symfony\Component\Yaml\Parser;
